@@ -8,6 +8,7 @@ Created by Matthew#0574
 ### How to make it work:
 
 - First, download or clone the github and open the .sln file in Visual Studio 2019.
+- Set your configuration settings to "Release" and "x86"
 - Go to "Manage NuGet Packages" located in the top bar under the header "Project".
 - Reinstall Scintilla, by clicking the uninstall button and installing it again.
 - Go to your Synapse X folder > bin > sxlib > and add sxlib.dll to your references.
