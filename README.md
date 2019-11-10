@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=x7Ez1IVA8kQ&feature=youtu.be
 - Go to "Manage NuGet Packages" located in the top bar under the header "Project".
 - Reinstall Scintilla, by clicking the uninstall button and installing it again.
 - Go to your Synapse X folder > bin > sxlib > and add sxlib.dll to your references.
+- When compiling, make sure to set the output directory to your Synapse X directory.
 - Done! Happy UI making!
 
 ### Pictures of the UI
