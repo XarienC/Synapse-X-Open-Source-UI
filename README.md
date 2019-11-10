@@ -21,7 +21,3 @@ Created by Matthew#0574
 ![UI Picture 2](https://i.gyazo.com/c70c857b3d39896babe1a30520c6b694.png)
 
 ![Video GIF](https://i.gyazo.com/419789c9984405f2305ad612a71fcb47.gif)
-
-### Preview
-
-![Video](https://youtu.be/x7Ez1IVA8kQ)
