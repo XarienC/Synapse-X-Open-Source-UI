@@ -3,6 +3,9 @@ Free for everyone who owns Synapse X, which is a Roblox exploit. Fully customiza
 
 Created by Matthew#0574
 
+Here's a preview of the UI in action:
+https://www.youtube.com/watch?v=x7Ez1IVA8kQ&feature=youtu.be
+
 # Make sure to own Synapse X before doing this, otherwise it will not work.
 
 ### How to make it work:
